@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Grupo Carrefour Brasil at Agile Master
+- 🌱 I’m currently learning to evaluate for Agile Coach
+- 🤔 I’m programing for hobby
+- 📫 How to reach me: robertoabreu@outlook.com.br
